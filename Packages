@@ -2,7 +2,7 @@ Package: com.squ1dd13.ipadfeatures
 Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Squ1dd13
-Filename: debs//com.squ1dd13.ipadfeatures.deb
+Filename: debs//ipadfeatures.deb
 Section: Tweaks
 Description: From my GitHub repo.
 Author: Squ1dd13 <squ1dd13dev@gmail.com>
