@@ -1,4 +1,4 @@
 # Squ1dd13's GitHub Repo
-I am moving to a GitHub repository so I will (as some point) not need my old repo. GitHub is more powerful and it's easier to use.
+Currently, due to various issues, there are no packages in this repository. The packages will soon be added and the working repository files will be copied into a main repo folder.
 # Why is it on GitHub now?
-I need to test that everything is working ok before I move completely.
+This GitHub repository is basically a workspace where I will be testing any changes to HTML and the workings of the repository. The actual repository will be where you download the tweaks from.
